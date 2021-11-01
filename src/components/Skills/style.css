@@ -1,0 +1,8 @@
+.skillsLi{
+  margin: 1rem;
+  padding: 0.5rem;
+  font-size: large;
+  color: white;
+  background-color: #67bd67;
+  display: inline-block;
+}

@@ -1,0 +1,21 @@
+.infoDiv{
+  padding: 1rem;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.myImage {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 100%;
+  margin-bottom: 1rem;
+}
+
+hr {
+  width: 100%;  
+  margin: 1rem;             
+  background-color: #f9f9f9;
+  
+}
